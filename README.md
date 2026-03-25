@@ -88,8 +88,7 @@ job-market-skill-demand-analytics
 │   └── test.ipynb
 ├── images/
 │   ├── dashboard.png
-│   ├── skills_chart.png
-│   └── job_trend.png
+│   └── job_trends.png
 ├── data/
 ├── dashboard/
 ├── README.md
